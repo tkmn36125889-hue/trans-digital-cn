@@ -25,7 +25,7 @@
 | Size            | 1718066 bytes                           |
 | MD5             | 3d420749d25335c4e728e5979fb637e5                                  |
 | Archived Date   | 2024-11-02 02:40:56                             |
-| Original Link   | [https://www.chuo-u.ac.jp/uploads/2024/03/campuslife_diversity_gs_book_08.pdf?1711756800109](https://www.chuo-u.ac.jp/uploads/2024/03/campuslife_diversity_gs_book_08.pdf?1711756800109)                         |
+| Original Link   | [https://www.chuo-u.ac.jp/campuslife/diversity/gs/book/                       |
 | Author          | 中央大学多元化中心                               |
 | Region          | 日本                               |
 | Date            | 2024-01-01                                 |
